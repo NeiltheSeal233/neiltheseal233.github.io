@@ -9,17 +9,17 @@
     <lastBuildDate>Mon, 26 Jan 2026 23:10:07 +0800</lastBuildDate>
     <atom:link href="https://neiltheseal233.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Tag1</title>
-      <link>https://neiltheseal233.github.io/tags/tag1/</link>
+      <title>海豹</title>
+      <link>https://neiltheseal233.github.io/tags/%E6%B5%B7%E8%B1%B9/</link>
       <pubDate>Mon, 26 Jan 2026 23:10:07 +0800</pubDate>
-      <guid>https://neiltheseal233.github.io/tags/tag1/</guid>
+      <guid>https://neiltheseal233.github.io/tags/%E6%B5%B7%E8%B1%B9/</guid>
       <description></description>
     </item>
     <item>
-      <title>Tag2</title>
-      <link>https://neiltheseal233.github.io/tags/tag2/</link>
+      <title>游记</title>
+      <link>https://neiltheseal233.github.io/tags/%E6%B8%B8%E8%AE%B0/</link>
       <pubDate>Mon, 26 Jan 2026 23:10:07 +0800</pubDate>
-      <guid>https://neiltheseal233.github.io/tags/tag2/</guid>
+      <guid>https://neiltheseal233.github.io/tags/%E6%B8%B8%E8%AE%B0/</guid>
       <description></description>
     </item>
   </channel>
